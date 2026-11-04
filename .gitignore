@@ -1,0 +1,13 @@
+# Ignorar o arquivo de dados local
+tarefas.json
+
+# Ignorar arquivos gerados pela compilação do Java
+*.class
+
+# Ignorar pastas de build do Maven / IDEs
+target/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
